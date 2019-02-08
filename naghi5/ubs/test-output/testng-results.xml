@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29251" started-at="2019-02-08T09:58:36Z" finished-at="2019-02-08T09:59:05Z">
+    <groups>
+      <group name="action1">
+        <method signature="GroupsTest.testAJAX()[pri:0, instance:samplep.ubs.GroupsTest@3ffc5af1]" name="testAJAX" class="samplep.ubs.GroupsTest"/>
+      </group> <!-- action1 -->
+      <group name="action2">
+        <method signature="GroupsTest.testAJAX()[pri:0, instance:samplep.ubs.GroupsTest@3ffc5af1]" name="testAJAX" class="samplep.ubs.GroupsTest"/>
+      </group> <!-- action2 -->
+    </groups>
+    <test name="Default test" duration-ms="29251" started-at="2019-02-08T09:58:36Z" finished-at="2019-02-08T09:59:05Z">
+      <class name="samplep.ubs.GroupsTest">
+        <test-method status="PASS" signature="testAJAX()[pri:0, instance:samplep.ubs.GroupsTest@3ffc5af1]" name="testAJAX" duration-ms="29173" started-at="2019-02-08T09:58:36Z" finished-at="2019-02-08T09:59:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAJAX -->
+      </class> <!-- samplep.ubs.GroupsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
